@@ -4,6 +4,6 @@ matplotlib
 seaborn
 scipy
 soundfile
-librosa
+librosa==0.7.1
 tqdm
 tabulate
